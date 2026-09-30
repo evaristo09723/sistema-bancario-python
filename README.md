@@ -22,10 +22,12 @@ O sistema permite realizar:
 
 - Python
 - GitHub
-- Vs Code
+- VScode
 ## Arquivo principal
 
 `sistema_bancario.py`
 
-##Autor
-Evaristo.
+
+## Autor: 
+
+Evaristo
